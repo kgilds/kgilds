@@ -1,8 +1,7 @@
-### Hi there 👋 I am ${kgilds}.${kgilds}
+### Hi there 👋 my name is Kevin
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 I am an R/Shiny Developer with expertise in helping nonprofits collect, manage and analyze their program data. I have 10 plus years of experience in the nonprofit sector managing people,projects and data.
 
