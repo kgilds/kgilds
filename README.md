@@ -1,10 +1,10 @@
 ### Hi there 👋 my name is Kevin
 
 
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 
-I am an R/Shiny Developer with expertise in helping nonprofits collect, manage and analyze their program data. I have 10 plus years of experience in the nonprofit sector managing people,projects and data.![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
-
+I am an R/Shiny Developer with expertise in helping nonprofits collect, manage and analyze their program data. I have 10 plus years of experience in the nonprofit sector managing people,projects and data.
 
 ### Technical Skills
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
