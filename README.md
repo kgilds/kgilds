@@ -8,10 +8,10 @@ I am an R/Shiny Developer with expertise in helping nonprofits collect, manage a
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kgilds&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-- 🔭 I’m currently working on the [Older Americans Profile Shiny Application & R package](https://tidydatabykwg57.shinyapps.io/ACLOlderAmericansProfile/). 
-- 🌱 I’m currently learning Shiny, SQL
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on . 
+- 🌱 I’m currently learning Shiny, Pandas, Machine Learning. 
+- 👯 I’m looking to collaborate on Shiny Applications
+- 🤔 I’m looking for help with 
 - 💬 Ask me about data in the nonprofit sector.
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
