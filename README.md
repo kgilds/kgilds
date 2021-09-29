@@ -13,8 +13,17 @@ I am an R/Shiny Developer with expertise in helping nonprofits collect, manage a
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
+### Github Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kgilds&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+###  📝 Blog Posts
+[Shiny Posts](https://kgilds.rbind.io/tags/shiny/)
+
+[R Posts](https://kgilds.rbind.io/categories/r/)
+
+
+
+### Misc
 - 🔭 I’m currently working on improving my data pipelines, and communicating data with Shiny Applications. Stuck on a couple of ideas for a Shiny Applications. 
 - 🌱 I’m currently learning Shiny, Pandas, Machine Learning. 
 - 👯 I’m looking to collaborate on Shiny Applications. 
